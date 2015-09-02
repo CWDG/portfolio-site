@@ -12,7 +12,7 @@ The finished product should be an HTML document named `index.html`, and one othe
 - Some bold text. Be passionate.
 - Some italic text. Be expressive.
 - A list.
-- A link to a another HTML page.
+- A link to a another HTML page in the repository.
 - A link to another website.
 
 That's it!
